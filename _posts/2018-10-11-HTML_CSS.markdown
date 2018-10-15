@@ -3,6 +3,7 @@ layout: post
 title:  "HTML/CSS"
 date:   2018-10-11 12:45:11 +0000
 categories: Web
+excerpt : HTML 정리
 image: gitProfile.jpg
 ---
 <HTML 정리>
