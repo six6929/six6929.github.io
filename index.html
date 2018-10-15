@@ -6,7 +6,7 @@ image: /images/fulls/01.jpg
 {% for post in paginator.posts %}
   <section>
     <h2><a href="{{ post.url | prepend: site.github.url }}">{{ post.title }}</a></h2>
-    <h4><a href="{{ post.url | prepend: site.github.url }}">{{ post.discription }}</a></h4> 
+    <h4><a href="{{ post.url | prepend: site.github.url }}">{{ post.description }}</a></h4>
     <p>
       <span><i class="fa fa-calendar"></i> {{ post.date | date: "%d %B %Y" }}{% if post.categories %} on <i class="fa fa-tags"></i> {{ post.categories | join: ', ' }}{% endif %}</span>
     </p>
