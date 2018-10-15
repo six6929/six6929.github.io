@@ -16,7 +16,7 @@ HTML 요소(Element)의 구조
 
 HTML의 자세한 요소에 대해 정리를 해보았습니다.
 
-<img src="{{ site.baseurl }}/images/htmlElement.png" alt= "">
+<img src="{{ site.baseurl }}/images/htmlElement.png" style = "width: 100%" alt= "">
 
 Element의 주요 부분은 다음과 같습니다.
   1. 여는 태그(Opening tag) : 이것은 요소의 이름과(그림의 경우 p), 열고 닫는 꺽쇠 괄호(<>)로 구성됩니다.
