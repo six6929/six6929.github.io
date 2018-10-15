@@ -1,0 +1,22 @@
+title: Shin Wonho
+description: >
+  First Step for being DBA
+
+    
+copyright: Untitled
+sass:
+  sass_dir: assets/sass
+url: https://six6929.github.io
+disqus_shortname: stratajekylldemo
+facebook_username:
+twitter_username: "#"
+linkedin_username: "#"
+instagram_username:
+pinterest_username:
+flickr_username:
+github_username:  "#"
+feed_icon: rss
+email: "#"
+gems: [jekyll-paginate]
+paginate_path: "/page/:num/"
+paginate: 5
