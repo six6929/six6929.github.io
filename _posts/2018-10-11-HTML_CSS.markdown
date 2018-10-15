@@ -3,7 +3,8 @@ layout: post
 title:  "HTML/CSS"
 date:   2018-10-11 12:45:11 +0000
 categories: Web
-description : html 정리
+description : 1.HTML활용
+HTML (Hyper Text markup language) : HTML은 웹브라우저상에서 화면을 보여주기위해 작성된 문서이다. 이 HTML은 CSS/JavaScript를 포함할 수 있다. WWW(World-wide web)을 가능하게 해준 하나의 요소이다. 현재 HTML은 Version 5 으로 최고의 전성기를 누리고 있다. 나의 알아왔던 바로는 HTML5로 바뀌면서 header 태그나 footer 태그 같이 의미있는(Semantic) 태그가 나온 것이었다. 기존에 HTML ver4의 경우 div태그에 셀렉터를 지정하여 footer class 또는 id 로 사용하였었다.
 image: gitProfile.jpg
 ---
 <HTML 정리>
