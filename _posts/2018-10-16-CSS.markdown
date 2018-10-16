@@ -9,6 +9,7 @@ image: gitProfile.jpg
 <CSS 정리>
 
 <h3 style="text-align : center; background-color : black; color : white; width:40%; margin:auto;">CSS 개요</h3>
+<br>
 CSS(Cascading Stylesheets)는 HTML을 익힌 후 가장 먼저 배워야 할 웹기술입니다. HTML이 컨텐츠의 구조와 의미를 정의하는 반면, CSS는 스타일을 지정하고 레이아웃을 지정하는데 사용됩니다. 예를 들어, CSS를 사용하면 컨텐츠의 글꼴, 색상, 크기 및 간격을 변경하거나, 여러 개의 열로 분할하거나, 애니메이션이나 기타 장식효과를 추가할 수 있습니다.
 <br>
 <hr>
@@ -20,7 +21,7 @@ CSS의 사용법을 인지하는 것이 CSS에 있어 가장 중요하다고 저
 CSS내부적으로 사용되는 문법은 동일하며, 어디에 기술하느냐의 차이가 존재합니다. 기술하는 방법은 아래의 3가지가 있습니다.
 <br>
 <ol>
-  <li><code style="color:darkred">HTML</code> 태그의 <p style="color:blue">style속성</p>을 이용</li>
-  <li><codestyle="color:darkred">&lt;style&gt;</code>태그를 통해 HTML 문서 내부에 기술 (<codestyle="color:darkred">&lt;style&gt;</code>태그는 주로 <codestyle="color:darkred">&lt;head&gt;</code> 태그 내부에 사용합니다.)</li>
+  <li><code style="color:darkred">HTML</code> 태그의 <b style="color:blue">style속성</b>을 이용</li>
+  <li><code style="color:darkred">&lt;style&gt;</code>태그를 통해 HTML 문서 내부에 기술 (<code style="color:darkred">&lt;style&gt;</code>태그는 주로 <code style="color:darkred">&lt;head&gt;</code> 태그 내부에 사용합니다.)</li>
   </li><codestyle="color:darkred">.css</code>파일로 분리하여 HTML 문서에 연결</li>
 </ol>
