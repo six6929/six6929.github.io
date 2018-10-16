@@ -15,11 +15,11 @@ HTML (Hyper Text markup language) : HTML은 웹브라우저상에서 화면을 �
 이외로 검색하여 왜 다들 HTML5하는지 찾아보았다. 첫번째로 HTML5의 장점은, 이미지 다운로드 속도가 빨라졌다는 것이다. 뿐만 아니라 향상된 SEO(Search Engine Optimization)을 지원한다. 아마 앞서 언급한 의미있는 태그표현을 통해 포털의 검색알고리즘이 향상되었을 것으로 판단된다.
 <br>
 <hr>
-<h3 style="text-align : center">HTML 요소(Element)의 구조<h3>
+<h3 style="text-align : center; backgroun-color : black; color : white">HTML 요소(Element)의 구조<h3>
 <br>
 HTML의 자세한 요소에 대해 정리를 해보았습니다.
 <br>
-<img src="{{ site.baseurl }}/images/htmlElement.png" style = "width: 100%; margin-left:auto; display:block "  alt= "">
+<img src="{{ site.baseurl }}/images/htmlElement.png" style = "width: 100%;"  alt= "">
 <br>
 Element의 주요 부분은 다음과 같습니다.<br>
   1. 여는 태그(Opening tag) : 이것은 요소의 이름과(그림의 경우 p), 열고 닫는 꺽쇠 괄호(<>)로 구성됩니다.<br>
@@ -32,7 +32,7 @@ Element의 주요 부분은 다음과 같습니다.<br>
   <br>
 <br>
 요소는 속성도 가질 수 있는데, 다음과 같이 사용합니다 : <br>
-<img src="{{ site.baseurl}}/images/htmlElement2.png" style = "width: 100%; margin-left:auto; display:block "  alt= ""> <br>
+<img src="{{ site.baseurl}}/images/htmlElement2.png" style = "width: 100%"  alt= ""> <br>
 속성 실제 컨텐츠로 표시되길 원하지 않는 추가적인 정보를 담고 있습니다. 이 예제에서, class 속성을 이용해 나중에 해당 요소를 특정해 스타일이나 다른 정보를 설정할 때 사용할 수 있는 식별자를 지정할 수 있습니다.
 <br>
 <br>
@@ -42,3 +42,11 @@ Element의 주요 부분은 다음과 같습니다.<br>
 <br>
 3. 속성 값의 앞 뒤에 열고 닫는 인용부호가 있어야 합니다.(" 또는 ')<br>
 <br>
+<br>
+<h3 style="text-align : center; background-color:black; color : white"> Empty Elements(빈요소) </h3>
+<br>
+어떤 요소들은 내용을 갖지 않습니다. 그리고 이것을 빈 요소(empty elements)라고 합니다. <strong> <img> </strong> 요소는 이미 우리 HTML 코드에 있습니다.
+<br>
+<img src="{{ site.baseurl }}/images/capture1.png" style = "width:100%" alt = "" >
+<br>
+이 요소는 두 개의 속성을 포함하고 있으나 닫는 </img> 태그가 없습니다. 이러한 요소를 empty elements라고 일컫습니다.<br>
