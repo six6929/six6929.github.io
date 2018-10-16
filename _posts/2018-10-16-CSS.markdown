@@ -28,9 +28,9 @@ CSS내부적으로 사용되는 문법은 동일하며, 어디에 기술하느�
   <li><code style="color:darkred">.css</code>파일로 분리하여 HTML 문서에 연결</li>
 </ol>
 <br>
-<img src="{{ site.baseurl}}/images/cssApply1.png" style="width:100%" alt="">
+<img src="{{ site.baseurl }}/images/cssApply1.png" style="width:100%" alt="">
 <br>
-<img src="{{ site.baseurl}}/images/cssApply2.png" style="width:100%" alt="">
+<img src="{{ site.baseurl }}/images/cssApply2.png" style="width:100%" alt="">
 <br>
 1번 처럼 사용시 HTML과 CSS를 분리하는 장점이 없어지기 때문에 추천하지 않는 방식입니다.
 <br>
@@ -41,3 +41,16 @@ CSS내부적으로 사용되는 문법은 동일하며, 어디에 기술하느�
 <img src="{{ site.baseurl}}/images/cssApply3.png" style="width:100%" alt="">
 <br>
 <img src="{{ site.baseurl}}/images/cssApply3-1.png" style="width:100%" alt="">
+<br>
+<hr>
+<h3 style="text-align : center; background-color : black; color : white; width:40%; margin:auto;">CSS 선택</h3>
+<br>
+<br>
+CSS는 어떤 태그들에게 스타일 효과를 주는 언어입니다.<br>
+<br>
+그렇다면 어떤 태그에 적용하는지를 정의하는 문법이 필요하게 되는데, 이때의 문법을 <b>선택자</b>라고 합니다.
+<br>
+<img src="{{ site.baseurl }}/images/capture3.png" style="width:100%" alt="">
+<br>
+<br>
+CSS는 위에 그림에서 보이듯이 선택자를 먼저 쓰고 중괄호 <code style="color:darkred">{}</code>안에 <b>속성</b>과 <b>값</b>을 적는 방식으로 이루어져 있습니다.
