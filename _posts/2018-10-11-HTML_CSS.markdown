@@ -15,7 +15,7 @@ HTML (Hyper Text markup language) : HTML은 웹브라우저상에서 화면을 �
 이외로 검색하여 왜 다들 HTML5하는지 찾아보았다. 첫번째로 HTML5의 장점은, 이미지 다운로드 속도가 빨라졌다는 것이다. 뿐만 아니라 향상된 SEO(Search Engine Optimization)을 지원한다. 아마 앞서 언급한 의미있는 태그표현을 통해 포털의 검색알고리즘이 향상되었을 것으로 판단된다.
 <br>
 <hr>
-<h3 style="text-align : center; backgroun-color : black; color : white; width:auto">HTML 요소(Element)의 구조</h3>
+<h3 style="text-align : center; background-color : black; color : white; width:auto">HTML 요소(Element)의 구조</h3>
 <br>
 HTML의 자세한 요소에 대해 정리를 해보았습니다.
 <br>
