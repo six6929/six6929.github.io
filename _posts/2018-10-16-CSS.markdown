@@ -50,6 +50,7 @@ CSS는 어떤 태그들에게 스타일 효과를 주는 언어입니다.<br>
 <br>
 그렇다면 어떤 태그에 적용하는지를 정의하는 문법이 필요하게 되는데, 이때의 문법을 <b>선택자</b>라고 합니다.
 <br>
+<br>
 <img src="{{ site.baseurl }}/images/capture3.png" style="width:100%" alt="">
 <br>
 <br>
