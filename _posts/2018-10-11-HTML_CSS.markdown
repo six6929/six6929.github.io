@@ -15,7 +15,7 @@ HTML (Hyper Text markup language) : HTML은 웹브라우저상에서 화면을 �
 이외로 검색하여 왜 다들 HTML5하는지 찾아보았다. 첫번째로 HTML5의 장점은, 이미지 다운로드 속도가 빨라졌다는 것이다. 뿐만 아니라 향상된 SEO(Search Engine Optimization)을 지원한다. 아마 앞서 언급한 의미있는 태그표현을 통해 포털의 검색알고리즘이 향상되었을 것으로 판단된다.
 <br>
 <hr>
-<h3 style="text-align : center; background-color : black; color : white; width:auto">HTML 요소(Element)의 구조</h3>
+<h3 style="text-align : center; background-color : black; color : white; width:40%; margin:auto;">HTML 요소(Element)의 구조</h3>
 <br>
 HTML의 자세한 요소에 대해 정리를 해보았습니다.
 <br>
@@ -43,7 +43,27 @@ Element의 주요 부분은 다음과 같습니다.<br>
 3. 속성 값의 앞 뒤에 열고 닫는 인용부호가 있어야 합니다.(" 또는 ')<br>
 <br>
 <br>
-<h3 style="text-align : center; background-color:black; color : white; width:auto"> Empty Elements(빈요소) </h3>
+<h3 style="text-align : center; background-color : black; color : white; width:40%; margin:auto;"> Empty Elements(빈요소) </h3>
 <br>
 <img src="{{ site.baseurl }}/images/capture1.png" style = "width:100%" alt = "" ><br>
 어떤 요소들은 내용을 갖지 않습니다. 그리고 이것을 <strong>빈 요소(empty elements)</strong>라고 합니다. <img>요소는 이미 우리 HTML 코드에 있습니다. 이 요소는 두 개의 속성을 포함하고 있으나 닫는 </img> 태그가 없습니다. 이러한 요소를 empty elements라고 일컫습니다.<br>
+<br>
+
+<h3 style="text-align : center; background-color : black; color : white; width:40%; margin:auto;">About HTML 문서</h3><br>
+<br>
+각 HTML 요소 기본적인 내용들을 살펴보았습니다. 이제 각 요소들이 어떻게 전체 HTML 페이지를 구성하는지 살표볼 차례입니다. 이 html 예제는 가장 기초적인 index.html의 내용입니다.<br>
+<img src="{{ site.baseurl }}/images/capture2.png" style = "width:100%" alt = "" ><br>
+<br>
+<ul>
+  <li><!DOCTYPE html> - doctype은 좋은 HTML로 인정받기 위해 HTML 페이지가 따라야 할 일련의 규칙으로의 연결통로로써 작동하는 것을 의미입니다.</li>
+
+  <li><html></html> - 이 요소는 페이지 전체의 컨텐츠를 감싸며, 루트(root) 요소라고도 합니다.</li>
+
+  <li><head></head> - 이 요소는 HTML 페이지에 포함되어 있는 모든 것들의 컨테이너 역할을 합니다. 여기에는 페이지 설명, 컨텐츠를 꾸미기 위한 CSS, 문자 집합 선언 등과 같은 것들이 포함됩니다.</li>
+
+  <li><body></body> - 이 요소는 페이지에 방문한 모든 웹 사용자들에게 보여주길 원하는 모든 컨텐츠를 담고 있으며, 텍스트, 이미지, 비디오, 게임, 오디오 트랙 등 무엇이든 될 수 있습니다.</li>
+
+  <li> <meta charset="utf-8"> - 이 요소는 문서가 사용해야 할 문자 집합을 utf-8으로 설정합니다. </li>
+
+  <li> <title></title> - 이 요소는 페이지의 제목을 설정하는 것으로 페이지가 로드되는 브라우저의 탭에 이 제목이 표시됩니다. 북마크나 즐겨찾기에서 페이지를 설명하는 것으로도 사용됩니다. </li>
+</ul>
