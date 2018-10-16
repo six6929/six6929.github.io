@@ -11,14 +11,14 @@ image: gitProfile.jpg
 1.HTML활용<br>
 HTML (Hyper Text markup language) : HTML은 웹브라우저상에서 화면을 보여주기위해 작성된 문서이다. 이 HTML은 CSS/JavaScript를 포함할 수 있다. WWW(World-wide web)을 가능하게 해준 하나의 요소이다. 현재 HTML은 Version 5 으로 최고의 전성기를 누리고 있다. 나의 알아왔던 바로는 HTML5로 바뀌면서 header 태그나 footer 태그 같이 의미있는(Semantic) 태그가 나온 것이었다. 기존에 HTML ver4의 경우 div태그에 셀렉터를 지정하여 footer class 또는 id 로 사용하였었다.
 <br>
+<br>
 이외로 검색하여 왜 다들 HTML5하는지 찾아보았다. 첫번째로 HTML5의 장점은, 이미지 다운로드 속도가 빨라졌다는 것이다. 뿐만 아니라 향상된 SEO(Search Engine Optimization)을 지원한다. 아마 앞서 언급한 의미있는 태그표현을 통해 포털의 검색알고리즘이 향상되었을 것으로 판단된다.
 <br>
-                          HTML 요소(Element)의 구조
-<br>
+\t\t\tHTML 요소(Element)의 구조
 <br>
 HTML의 자세한 요소에 대해 정리를 해보았습니다.
 <br>
-<img src="{{ site.baseurl }}/images/htmlElement.png" style = "width: 100%" alt= "">
+<img src="{{ site.baseurl }}/images/htmlElement.png" style = "width: 80%" alt= "">
 <br>
 Element의 주요 부분은 다음과 같습니다.<br>
   1. 여는 태그(Opening tag) : 이것은 요소의 이름과(그림의 경우 p), 열고 닫는 꺽쇠 괄호(<>)로 구성됩니다.<br>
