@@ -45,8 +45,5 @@ Element의 주요 부분은 다음과 같습니다.<br>
 <br>
 <h3 style="text-align : center; background-color:black; color : white; width:auto"> Empty Elements(빈요소) </h3>
 <br>
-어떤 요소들은 내용을 갖지 않습니다. 그리고 이것을 빈 요소(empty elements)라고 합니다. <strong> <img> </strong> 요소는 이미 우리 HTML 코드에 있습니다.
-<br>
-<img src="{{ site.baseurl }}/images/capture1.png" style = "width:100%" alt = "" >
-<br>
-이 요소는 두 개의 속성을 포함하고 있으나 닫는 </img> 태그가 없습니다. 이러한 요소를 empty elements라고 일컫습니다.<br>
+<img src="{{ site.baseurl }}/images/capture1.png" style = "width:100%" alt = "" ><br>
+어떤 요소들은 내용을 갖지 않습니다. 그리고 이것을 <strong>빈 요소(empty elements)</strong>라고 합니다. <img>요소는 이미 우리 HTML 코드에 있습니다. 이 요소는 두 개의 속성을 포함하고 있으나 닫는 </img> 태그가 없습니다. 이러한 요소를 empty elements라고 일컫습니다.<br>
