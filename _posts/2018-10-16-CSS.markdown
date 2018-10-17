@@ -55,3 +55,22 @@ CSS는 어떤 태그들에게 스타일 효과를 주는 언어입니다.<br>
 <br>
 <br>
 CSS는 위에 그림에서 보이듯이 선택자를 먼저 쓰고 중괄호 <code style="color:darkred">{}</code>안에 <b>속성</b>과 <b>값</b>을 적는 방식으로 이루어져 있습니다.
+<br>
+<hr>
+<h3 style="text-align : center; background-color : black; color : white; width:40%; margin:auto;">Box Model</h3>
+<br>
+<br>
+일반 텍스트 문장이나 이미지 등으로 홈페이지를 만들 때는, 아래 그림과 같이 기본 하나의 박스는 4 개의 영역으로 구성되어 있습니다.
+<br>
+<img src="{{ site.baseurl }}/images/boxmodel.png" alt="">
+<br>
+<br>
+<ul>
+  <li>Contents : 텍스트와 이미지 등의 컨텐츠 내용이 표시되는 영역입니다.</li>
+  <li>Padding : 컨텐츠 내용과 Border사이의 여백을 말합니다.</li>
+  <li>Border : 패딩과 마진의 경계에 있는 테두리선으로, 박스의 외각이 되는 부분입니다.</li>
+  <li>Margin : 보더와 다른 요소 사이의 여백입니다. 여기에 배경은 표시되지 않습니다. </li>
+</ul>
+<br>
+<br>
+<img src="{{ site.baseurl }}/images/boxmodelEx.png" alt="">
