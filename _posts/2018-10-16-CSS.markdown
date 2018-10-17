@@ -64,7 +64,7 @@ CSS는 위에 그림에서 보이듯이 선택자를 먼저 쓰고 중괄호 <co
 <br>
 <img src="{{ site.baseurl }}/images/boxmodel.png" style="width:100%" alt="">
 <br>
-<br>
+
 <ul>
   <li>Contents : 텍스트와 이미지 등의 컨텐츠 내용이 표시되는 영역입니다.</li>
   <li>Padding : 컨텐츠 내용과 Border사이의 여백을 말합니다.</li>
@@ -72,5 +72,5 @@ CSS는 위에 그림에서 보이듯이 선택자를 먼저 쓰고 중괄호 <co
   <li>Margin : 보더와 다른 요소 사이의 여백입니다. 여기에 배경은 표시되지 않습니다. </li>
 </ul>
 <br>
-<br>
+
 <img src="{{ site.baseurl }}/images/boxmodelEx.png" style="width:100%" alt="">
