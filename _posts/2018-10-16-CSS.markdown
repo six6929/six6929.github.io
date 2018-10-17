@@ -62,7 +62,7 @@ CSS는 위에 그림에서 보이듯이 선택자를 먼저 쓰고 중괄호 <co
 <br>
 일반 텍스트 문장이나 이미지 등으로 홈페이지를 만들 때는, 아래 그림과 같이 기본 하나의 박스는 4 개의 영역으로 구성되어 있습니다.
 <br>
-<img src="{{ site.baseurl }}/images/boxmodel.png" alt="">
+<img src="{{ site.baseurl }}/images/boxmodel.png" style="width:100%" alt="">
 <br>
 <br>
 <ul>
@@ -73,4 +73,4 @@ CSS는 위에 그림에서 보이듯이 선택자를 먼저 쓰고 중괄호 <co
 </ul>
 <br>
 <br>
-<img src="{{ site.baseurl }}/images/boxmodelEx.png" alt="">
+<img src="{{ site.baseurl }}/images/boxmodelEx.png" style="width:100%" alt="">
