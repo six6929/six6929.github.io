@@ -81,4 +81,4 @@ CSS는 위에 그림에서 보이듯이 선택자를 먼저 쓰고 중괄호 <co
 <code style="color:darkred">&lt;form&gt;</code>태그는 웹 페이지에서의 <b>입력 양식</b>을 의미합니다. 많은 사람들이 로그인 창, 회원가입 창을 제작할 때 사용하는 방법이 이에 해당됩니다.<br>
 텍스트필드에 글자를 입력하거나, 체크박스나 라디오 버튼을 클릭하고 제출버튼을 누르면 서버 측에 양식이 전달되어 정보를 처리하게 됩니다. 제가 생각하기에는 form태그는 아주 중요하다고 생각합니다.
 <br>
-<iframe src="https://six6929.github.io/BIT_Web/HTML/26_form_select.html" style="width : 100%; height : 400px;"></iframe>
+<iframe src="https://six6929.github.io/BIT_Web/HTML/26_form_select.html" style="width : 100%; height : auto;"></iframe>
