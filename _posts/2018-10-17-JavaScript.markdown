@@ -21,9 +21,9 @@ HTML과 CSS는 정적인 언어인 반면, <b>JavaScript는 HTML과 CSS로 만�
 <h3 style="text-align : center; background-color : black; color : white; width:40%; margin:auto;">JavaScript 변수선언</h3>
 <br>
 자바스크립트에서 변수는 값과 연관된 이름으로서, 변수를 이용하면 데이터를 저장하고 조작할 수 있습니다.
-<p>--------------------------------------------------------------</p>
-<h4>변수 선언</h4><br>
-변수는 var 키워드로 선언합니다.<br>
+<br>
+변수는 var 키워드로 선언합니다.
+<br>
 동일한 var 키워드를 이용해서 여러 개의 변수를 선언할 수 있으며, 선언함과 동시에 초기화 할 수도 있습니다.
 <br>
-<img src=""{{ site.baseurl }}/images/JavascriptEx_1.png" style="width:100%" alt="">
+<img src="{{ site.baseurl }}/images/JavascriptEx_1.png" style="width:100%" alt="">
