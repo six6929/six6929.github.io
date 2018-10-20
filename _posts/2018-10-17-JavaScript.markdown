@@ -73,7 +73,8 @@ var 키워드 없이 변수를 선언하면 자동으로 전역 변수가 됩니
   <li>document.write() Method</li>
   <li>console.log() Method</li>
 </ol>
-document.write() Method
+<hr>
+<h4><b>document.write() Method</b></h4>
 <br>
 document.write() 메서드는 웹 페이지가 로딩될 때 실행되면, 웹 페이지에 가장 먼저 데이터를 출력합니다. 따라서 document.write() 메서드는 대부분 테스트나 디버깅을 위해 사용됩니다.
 <img src="{{site.baseurl}}/images/jsWrite.png" style="width:100%" alt="">
