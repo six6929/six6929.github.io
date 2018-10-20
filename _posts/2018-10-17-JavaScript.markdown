@@ -119,3 +119,33 @@ console.log() 메서드는 웹 브라우저의 콘솔을 통해 데이터를 출
 <img src="{{site.baseurl}}/images/jsCalc.png" style="width:100%" alt="">
 <br>
 그림에서 볼 수 있듯이 <==, !=> 값만 일치하면 되지만, <===, !==>는 값과 타입까지 동일해야 함을 알 수 있습니다.
+
+<h3 style="text-align : center; background-color : black; color : white; width:40%; margin:auto;">JavaScript 객체</h3>
+<br>
+<b>객체(object)</b>란 실생활에서 우리가 인식할 수 있는 사물로 이해할 수 있습니다. <br>
+<b>프로퍼티(property)</b>란 객체의 일부로 이름과 값 사이 연결을 의미라고 정의합니다. <br>
+<b>메소드(Method)</b>란 객체가 가지고 있는 동작을 의미합니다.
+<hr>
+객체(object)
+<br>
+- TV <br>
+<img src="{{site.baseurl}}/images/tv.jpg" style="width:70%" alt="">
+<br>
+프로퍼티(property)
+<br>
+tv.width = 1500; //속성 만들고, 값 설정
+tv.height = 700;
+tv.color = "black";
+tv.weight = "20kg";
+<br>
+메서드(Method)
+<br>
+<pre>
+tv.on = function() {
+    document.write("TV전원 On!!<br>");
+}
+
+tv.off = function() {
+    document.write("TV전원 Off!!<br>");
+}
+</pre>
