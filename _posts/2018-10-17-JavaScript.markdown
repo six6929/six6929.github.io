@@ -138,14 +138,9 @@ tv.height = 700;
 tv.color = "black";
 tv.weight = "20kg";
 <br>
+<br>
 메서드(Method)
 <br>
-<pre>
-tv.on = function() {
-    document.write("TV전원 On!!<br>");
-}
-
-tv.off = function() {
-    document.write("TV전원 Off!!<br>");
-}
-</pre>
+<br>
+tv.on();
+tv.off();
