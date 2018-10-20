@@ -108,3 +108,6 @@ console.log() 메서드는 웹 브라우저의 콘솔을 통해 데이터를 출
 <br>
 <img src="{{site.baseurl}}/images/jsWrite5.png" style="width:100%" alt="">
 <hr>
+
+<h3 style="text-align : center; background-color : black; color : white; width:40%; margin:auto;">JavaScript 연산자</h3>
+자바스크립트에는 증감연산자(++, --), 산술연산자(+, -, *, /, %), 대입연산자(=, +=, -=, *=, /=, %=, "<br>"), 비교연산자(>, <, >=, <=, ==, !=, ===, !==)있습니다.
