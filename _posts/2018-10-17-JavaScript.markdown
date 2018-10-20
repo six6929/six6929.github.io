@@ -92,3 +92,8 @@ document.write() 메서드는 웹 페이지가 로딩될 때 실행되면, 웹 �
 <img src="{{site.baseurl}}/images/jsWrite3.png" style="width:100%" alt="">
 <br>
 <hr>
+<h3><b>HTML DOM 요소를 이용한 innerHTML property</b></h3>
+<br>
+우선 document 객체의 getElementByID()나 getElementByTagName() 등의 메소드를 사용하여 HTML 요소를 선택합니다. 그리고서 innerHTML property를 이용하면 HTML 요소의 내용(content)이나 속성(attribute) 값 등을 손쉽게 변경할 수 있습니다.
+<br>
+<img src="{{site.baseurl}}/images/jsWrite4.png" style="width:100%" alt="">
