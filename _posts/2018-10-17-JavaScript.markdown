@@ -146,3 +146,11 @@ tv.on();<br>
 tv.off();
 
 <hr>
+<h3> 자바스크립트 객체 </h3>
+자바스크립트의 기본 타입은 객체입니다.<br>
+객체란 이름과 값으로 구성된 프로퍼티의 정렬되지 않은 집합입니다.<br>
+프로퍼티의 값으로 함수가 올 수도 있는데, 이러한 프로퍼티를 메소드(method)라고 합니다.
+<br>
+<br>
+객체 선언 및 사용<br>
+<img src="{{site.baseurl}}/images/jsObject.png" style="width:100%" alt="">
