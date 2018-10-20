@@ -168,4 +168,4 @@ tv.off();
 객체 사용
 <img src="{{site.baseurl}}/images/jsObject4.png" style="width:100%" alt="">
 <br>
-<p style="border:1px solid gray; padding:auto"><i>주의 </i> : 메소드를 참조할 때는 괄호를() 붙이지 않으면, 메소드가 아닌 프로퍼티 자체를 참조하게 됩니다.</p>
+<p style="border:1px solid darkgray; font-size:80%"><i>주의 </i> : 메소드를 참조할 때는 괄호를() 붙이지 않으면, 메소드가 아닌 프로퍼티 자체를 참조하게 됩니다.</p>
