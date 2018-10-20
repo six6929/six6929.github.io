@@ -96,4 +96,15 @@ document.write() 메서드는 웹 페이지가 로딩될 때 실행되면, 웹 �
 <br>
 우선 document 객체의 getElementByID()나 getElementByTagName() 등의 메소드를 사용하여 HTML 요소를 선택합니다. 그리고서 innerHTML property를 이용하면 HTML 요소의 내용(content)이나 속성(attribute) 값 등을 손쉽게 변경할 수 있습니다.
 <br>
+<br>
 <img src="{{site.baseurl}}/images/jsWrite4.png" style="width:100%" alt="">
+
+<hr>
+<h3><b>console.log() Method</b></h3>
+console.log() 메서드는 웹 브라우저의 콘솔을 통해 데이터를 출력해줍니다.
+<br>
+대부분의 주요 웹 브라우저에서는 F12를 누른 후, 메뉴에서 콘솔을 클릭하면 콘솔화면을 사용할 수 있습니다. 이러한 콘솔 화면을 통한 데이터의 출력은 좀 더 자세한 사항까지 출력되므로, 디버깅하는데 많은 도움을 줍니다.
+<br>
+<br>
+<img src="{{site.baseurl}}/images/jsWrite5.png" style="width:100%" alt="">
+<hr>
