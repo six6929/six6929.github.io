@@ -129,7 +129,7 @@ console.log() 메서드는 웹 브라우저의 콘솔을 통해 데이터를 출
 객체(object)
 <br>
 - TV <br>
-<img src="{{site.baseurl}}/images/tv.jpg" style="width:70%" alt="">
+<img src="{{site.baseurl}}/images/tv.jpg" style="width:30%" alt="">
 <br>
 프로퍼티(property)
 <br>
