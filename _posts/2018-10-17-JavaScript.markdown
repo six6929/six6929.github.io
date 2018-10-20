@@ -153,7 +153,7 @@ tv.off();
 <br>
 <br>
 객체 선언 및 사용<br>
-<img src="{{site.baseurl}}/images/jsObject.png" style="width:100%" alt="">
+<img src="{{site.baseurl}}/images/jsObject1.png" style="width:100%" alt="">
 <br>
 객체 프로퍼티 적용<br>
 <img src="{{site.baseurl}}/images/jsObject2.png" style="width:100%" alt="">
