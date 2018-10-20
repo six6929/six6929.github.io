@@ -133,9 +133,9 @@ console.log() 메서드는 웹 브라우저의 콘솔을 통해 데이터를 출
 <br>
 프로퍼티(property)
 <br>
-tv.width = 1500; //속성 만들고, 값 설정
-tv.height = 700;
-tv.color = "black";
+tv.width = 1500; //속성 만들고, 값 설정 <br>
+tv.height = 700; <br>
+tv.color = "black"; <br>
 tv.weight = "20kg";
 <br>
 <br>
