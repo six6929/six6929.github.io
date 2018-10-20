@@ -153,4 +153,4 @@ tv.off();
 <br>
 <br>
 객체 선언 및 사용<br>
-<img src="{{site.baseurl}}/images/jsObject.PNG" style="width:100%" alt="">
+<img src="{{site.baseurl}}/images/jsObject.png" style="width:100%" alt="">
