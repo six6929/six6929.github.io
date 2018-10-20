@@ -154,3 +154,18 @@ tv.off();
 <br>
 객체 선언 및 사용<br>
 <img src="{{site.baseurl}}/images/jsObject.png" style="width:100%" alt="">
+<br>
+객체 프로퍼티 적용<br>
+<img src="{{site.baseurl}}/images/jsObject2.png" style="width:100%" alt="">
+<br>
+객체 메소드 호출<br>
+<img src="{{site.baseurl}}/images/jsObject3.png" style="width:100%" alt="">
+<br>
+자바스크립트에서는 숫자, 문자열, boolean, undefined 타입을 제외한 모든 것이 객체입니다. <br>
+하지만 숫자, 문자열, boolean과 같은 원시 타입은 값이 정해진 객체로 취급되어, 객체로서의 특징도 함께 가지게 됩니다.
+<br>
+<hr>
+객체 사용
+<img src="{{site.baseurl}}/images/jsObject4.png" style="width:100%" alt="">
+<br>
+<i>주의</i> : 메소드를 참조할 때는 괄호를() 붙이지 않으면, 메소드가 아닌 프로퍼티 자체를 참조하게 됩니다. 
