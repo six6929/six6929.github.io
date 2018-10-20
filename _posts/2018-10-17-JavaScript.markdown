@@ -131,6 +131,7 @@ console.log() 메서드는 웹 브라우저의 콘솔을 통해 데이터를 출
 - TV <br>
 <img src="{{site.baseurl}}/images/tv.jpg" style="width:30%" alt="">
 <br>
+<br>
 프로퍼티(property)
 <br>
 tv.width = 1500; //속성 만들고, 값 설정 <br>
@@ -141,6 +142,7 @@ tv.weight = "20kg";
 <br>
 메서드(Method)
 <br>
-<br>
-tv.on();
+tv.on();<br>
 tv.off();
+
+<hr>
