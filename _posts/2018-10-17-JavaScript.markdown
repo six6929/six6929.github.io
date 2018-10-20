@@ -40,7 +40,7 @@ HTML과 CSS는 정적인 언어인 반면, <b>JavaScript는 HTML과 CSS로 만�
 </ul>
 <br>
 전역 변수와 지역 변수의 예를 보여드리겠습니다.
-<pre style="border:2px dotted #A8A8A8; width:100%">
+<pre style="border:2px dotted #A8A8A8; white-space:pre-wrap; word-break:break-all;">
                   var name = "global";    //전역 변수를 선언
                   function checkscope() {
                       var name = "local"; //지역 변수를 선언
@@ -51,7 +51,7 @@ HTML과 CSS는 정적인 언어인 반면, <b>JavaScript는 HTML과 CSS로 만�
 <hr>
 var 키워드 없이 변수를 선언하면 자동으로 전역 변수가 됩니다.
 
-<pre style="border:2px dotted #A8A8A8; width:100%">
+<pre style="border:2px dotted #A8A8A8; white-space:pre-wrap; word-break:break-all;">
                   var name = "global"     // 전역 변수를 선언
                   function checkscope() {
                       name = "local";     //전역 변수를 변경
