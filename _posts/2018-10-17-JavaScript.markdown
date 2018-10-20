@@ -30,4 +30,14 @@ HTML과 CSS는 정적인 언어인 반면, <b>JavaScript는 HTML과 CSS로 만�
 <br>
 자바스크립트는 Java나 C언어와 달리 명시적인 타입이 필요하지 않습니다. 자바스크립트 변수는 어떤 자료형의 값도 var 안에 담을 수 있으며, 한 변수를 다른 타입의 값으로 초기화 또는 할당할 수 있습니다. <br>
 
-<h3 style="text-align : center; background-color : black; color : white; width:40%; margin:auto;">JavaScript 전역변수와 지역변수</h3>
+<h3 style="text-align : center; background-color : black; color : white; width:40%; margin:auto;">JavaScript 전역변수와 지역변수</h3><br>
+<ul>
+  <li> 전역변수는 코드 내에서 어디서든 변수에 접근할 수 있는 변수를 의미합니다.</li>
+  <li> 지역변수는 함수 내에서 변수를 정의하고 접근할 수 있는 변수를 의미합니다.</li>
+  <li> 함수 매개변수도 지역 변수로 간주하며 해당 함수의 본문 내에서 접근할 수 있습니다.</li>
+  <li> 지역 변수와 전역 변수의 이름이 같을 경우 지역 변수가 우선순위가 높습니다. </li>
+</ul>
+<br>
+전역 변수와 지역 변수의 예를 보여드리겠습니다.
+<br>
+<img src="{{ site.baseurl }}/images/checkScope.png" style="width:100%" alt="">
