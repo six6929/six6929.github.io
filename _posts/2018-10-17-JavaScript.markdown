@@ -49,6 +49,7 @@ HTML과 CSS는 정적인 언어인 반면, <b>JavaScript는 HTML과 CSS로 만�
                   checkscope();
 </pre>
 <hr>
+var 키워드 없이 변수를 선언하면 자동으로 전역 변수가 됩니다.
 
 <pre style="border:2px dotted #A8A8A8">
                   var name = "global"     // 전역 변수를 선언
@@ -60,3 +61,22 @@ HTML과 CSS는 정적인 언어인 반면, <b>JavaScript는 HTML과 CSS로 만�
                   console.log(name);      //output: "local"
                   console.log(name2);     //output: "local"
 </pre>
+<br>
+
+<h3 style="text-align : center; background-color : black; color : white; width:40%; margin:auto;">JavaScript 출력</h3>
+<br>
+자바스크립트는 여러 방법을 통해 결과물을 HTML 페이지에 출력할 수 있습니다.<br>
+자바스크립트에서 사용할 수 있는 출력 방법은 다음과 같습니다.
+<ol>
+  <li>window.alert() Method</li>
+  <li>HTML DOM 요소를 이용한 innerHTML property</li>
+  <li>document.write() Method</li>
+  <li>console.log() Method</li>
+</ol>
+document.write() Method
+<br>
+document.write() 메서드는 웹 페이지가 로딩될 때 실행되면, 웹 페이지에 가장 먼저 데이터를 출력합니다. 따라서 document.write() 메서드는 대부분 테스트나 디버깅을 위해 사용됩니다.
+<img src="{{site.baseurl}}/images/jsWrite.png" style="width:100%" alt="">
+하지만 웹 페이지의 모든 내용이 로딩된 후에 document.write() 메서드가 실행되면, 웹 페이지 내에 먼저 로딩된 모든 데이터를 지우고 자신의 데이터를 출력하게 됩니다.
+<br>
+<img src="{{site.baseurl}}/images/jsWrite2.png" style="width:100%" alt="">
