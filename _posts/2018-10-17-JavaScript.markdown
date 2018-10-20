@@ -40,4 +40,21 @@ HTML과 CSS는 정적인 언어인 반면, <b>JavaScript는 HTML과 CSS로 만�
 </ul>
 <br>
 전역 변수와 지역 변수의 예를 보여드리겠습니다.
-<img src="{{ site.baseurl }}/images/checkScope.png" style="width:100%" alt="">
+<pre border="1">
+  var name = "global";    //전역 변수를 선언
+  function checkscope() {
+      var name = "local"; //지역 변수를 선언
+      console.log(name);  //전역 변수가 아닌 지역 변수를
+  }
+  checkscope();
+
+
+  var name = "global"     // 전역 변수를 선언
+  function checkscope() {
+      name = "local";     //전역 변수를 변경
+      name2 = "local";    //암묵적으로 새 전역 변수가 선언됨
+  }
+  checkscope();
+  console.log(name);      //output: "local"
+  console.log(name2);     //output: "local"
+</pre>
