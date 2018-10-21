@@ -180,7 +180,7 @@ tv.off();
 위의 그림은 id가 imgbtn이라는 요소에 마우스를 올렸을때는  btn2_yellow이미지를 마우스가 벗어났을 때는 btn2_gray이미지를 나타낼 수 있게 마우스에다가 이벤트 효과를 주었음을 보여주고 있습니다.
 <br>
 실습한 내용을 가지고 이벤트에 대해서 더 알아보도록 하겠습니다.
-<br>
+<hr>
 <h3> form 관련 이벤트 </h3>
 <iframe src="https://six6929.github.io/BIT_Web/JavaScript/36_js_%EC%9D%B4%EB%B2%A4%ED%8A%B8_form.html" style="width:100%; height:400px"></iframe>
 <br>
