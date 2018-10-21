@@ -186,10 +186,13 @@ tv.off();
 <br>
 <img src="{{site.baseurl}}/images/formEvent1.png" style="width:100%" alt="">
 <br>
-확인 버튼을 눌렀을 때  첫번째 암호와 두번째 암호가 일치한지 확인하는 버튼과 그에 대한 코드입니다.
+확인 버튼을 눌렀을 때  첫번째 암호와 두번째 암호가 일치한지 확인하고 일치하지 않으면 서버로 비밀번호를 전송하지 않도록 만든 코드입니다.
+<br>
 <br>
 <img src="{{site.baseurl}}/images/formEvent3.png" style="width:100%" alt="">
 <br>
 <img src="{{site.baseurl}}/images/formEvent2.png" style="width:100%" alt="">
 <br>
 동의버튼을 눌렀을 때, 모든 약관에 동의가 되어있을 때 등록이 되고 약관에 동의가 모두 되어 있지 않을 때는 약관에 동의하라는 팝업창이 뜨게 만드는 버튼 및 코드입니다.
+<br>
+이렇게 자바스크립트와 HTML의 상호작용은 사용자가 이벤트를 일으켰을 때, 이벤트 핸들에 의해서 이루어지는 것을 알 수 있습니다. 이벤트는 더욱 다양한 형태로 발생하게 되는데 개발자들은 이런 이벤트들을 가로채서 원하는 행위를 하게 됩니다. 
