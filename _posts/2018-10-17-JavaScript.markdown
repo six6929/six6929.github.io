@@ -169,3 +169,12 @@ tv.off();
 <img src="{{site.baseurl}}/images/jsObject4.png" style="width:100%" alt="">
 <br>
 <p style="border:1px solid darkgray; font-size:80%"><i>주의 </i> : 메소드를 참조할 때는 괄호를() 붙이지 않으면, 메소드가 아닌 프로퍼티 자체를 참조하게 됩니다.</p>
+<h3 style="text-align : center; background-color : black; color : white; width:40%; margin:auto;">JavaScript 이벤트</h3>
+<br>
+이벤트(event)란 웹 브라우저가 알려주는 HTML 요소에 대한 사건의 발생을 의미합니다.
+<br>
+웹 페이지에 사용된 자바스크립트는 이렇게 발생한 이벤트에 반응하여 특정 동작을 수행할 수 있습니다. 따라서 클라이언트 측 자바스크립트를 비동기식 이벤트 중심의 프로그래밍 모델이라고 합니다.
+<hr>
+<h3> 마우스 관련 이벤트 </h3>
+<img src="{{site.baseurl}}/images/mouseEvent.png" style="width:100%" alt="">
+위의 그림은 id가 imgbtn이라는 요소에 마우스를 올렸을때는  btn2_yellow이미지를 마우스가 벗어났을 때는 btn2_gray이미지를 나타낼 수 있게 마우스에다가 이벤트 효과를 주었음을 보여주고 있습니다.
