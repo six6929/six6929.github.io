@@ -16,6 +16,5 @@ Ex) <b>JavaScript : document.getElementByID('ID') , jQuery : $('#ID')</b>
 <br>
 <h3 style="text-align : center; background-color : black; color : white; width:40%; margin:auto;">jQuery 사용 방식</h3>
 <br>
-<br>
 <b>방식1. $(document).ready(function() {});</b>
-<img src="{{site.baseurl}}/images/jQuery.png" style="width:100%" alt="">
+<img src="{{site.baseurl}}/images/jQuery01.png" style="width:100%" alt="">
