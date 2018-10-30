@@ -231,4 +231,3 @@ DOM은 구조화된 node와 property와 method를 갖고 있는 objects로 문�
   <hr>
   <li>document.querySelector("선택자") : 선택자에 해당하는 첫번째 요소 리턴 </li>
   <li> document.querySelectorAll("선택자") : 선택자에 해당하는 모든 요소 리턴(배열형태) </li>
-</ol>
