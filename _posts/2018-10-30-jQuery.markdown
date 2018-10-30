@@ -18,3 +18,9 @@ Ex) <b>JavaScript : document.getElementByID('ID') , jQuery : $('#ID')</b>
 <br>
 <b>방식1. $(document).ready(function() {});</b>
 <img src="{{site.baseurl}}/images/jQuery01.png" style="width:100%" alt="">
+<br>
+<b>방식2. $().ready(function() {}); </b>
+<img src="{{site.baseurl}}/images/jQuery02.png" style="width:100%" alt="">
+<br>
+<b>방식3. $(function(){});</b>
+<img src="{{site.baseurl}}/images/jQuery03.png" style="width:100%" alt="">
