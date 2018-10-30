@@ -237,4 +237,4 @@ DOM은 구조화된 node와 property와 method를 갖고 있는 objects로 문�
 <h3 style="text-align : center; background-color : black; color : white; width:40%; margin:auto;">JavaScript 실습</h3>
 <br>
 <br>
-<iframe src="https://six6929.github.io/BIT_Web/JavaScript/37_js_%EC%9D%B4%EB%B2%A4%ED%8A%B8_%EC%9E%90%EB%8F%99%EC%B0%A8%EA%B2%AC%EC%A0%81(%EC%8B%A4%EC%8A%B5).html" style="width:100%; height:100%;"></iframe>
+<iframe src="https://six6929.github.io/BIT_Web/JavaScript/37_js_%EC%9D%B4%EB%B2%A4%ED%8A%B8_%EC%9E%90%EB%8F%99%EC%B0%A8%EA%B2%AC%EC%A0%81(%EC%8B%A4%EC%8A%B5).html" style="width:100%; height:800px;"></iframe>
