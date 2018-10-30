@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "jQuery"
+date:   2018-10-30 12:45:11 +0000
+categories: Web
+excerpt : jQuery(제이쿼리)는 HTML의 클라이언트 사이드 조작을 단순화 하도록 설계된 크로스 플랫폼의 자바스크립트 라이브러리입니다. jQuery는 오늘날 가장 인기있는 자바스크립트 라이브러리 중 하나입니다. <br>JavaScript를 좀 더 쉽게 사용하려고 만들어졌습니다. 또 DOM 형식의 JavaScript 코드는 복잡하고 긴 반면에, jQuery는 좀 더 직관적이고 짧고 단순합니다. <br> Ex) <b>JavaScript : document.getElementByID('ID') , jQuery : $('#ID')</b>
+image: gitProfile.jpg
+---
+<jQuery 정리>
+
+jQuery(제이쿼리)는 HTML의 클라이언트 사이드 조작을 단순화 하도록 설계된 크로스 플랫폼의 자바스크립트 라이브러리입니다. jQuery는 오늘날 가장 인기있는 자바스크립트 라이브러리 중 하나입니다. <br>
+JavaScript를 좀 더 쉽게 사용하려고 만들어졌습니다. 또 DOM 형식의 JavaScript 코드는 복잡하고 긴 반면에, jQuery는 좀 더 직관적이고 짧고 단순합니다. <br>
+Ex) <b>JavaScript : document.getElementByID('ID') , jQuery : $('#ID')</b>
