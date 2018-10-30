@@ -215,3 +215,20 @@ tv.off();
   <li> HTML DOM의 Document 객체 역시 window 객체의 속성입니다. </li>
 </ul>
 ~ 지금까지 본 window history, screen 등 이러한 것들을 브라우저 객체 모델(Browser Object Model) BOM 이라고 합니다.
+
+<h3 style="text-align : center; background-color : black; color : white; width:40%; margin:auto;">JavaScript DOM</h3>
+문서 객체 모델(Document Object Model)은 HTML, XML 문서의 프로그래밍 interface입니다. DOM은 문서의 구조화된 표현을 제공하며 프로그래밍 언어가 DOM 구조에 접근할 수 있는 방법을 제공하여 그들의 문서 구조 및 스타일, 내용등을 변경할 수 있게 됩니다. <br>
+DOM은 구조화된 node와 property와 method를 갖고 있는 objects로 문서를 표현합니다.
+이들은 웹 페이지를 스크립트 또는 프로그래밍 언어들에서 사용될 수 있게 연결시켜주는 역할을 담당합니다.
+<br>
+<br>
+<h4> DOM 선택자</h4>
+<h4> 선택자 종류 : 직접선택자, 인접관계 선택자 </h4>
+<ol>
+  <li>document.getElementByID('아이디명') : id 속성에 해당하는 요소 리턴 </li>
+  <li>document.getElementsByClassName('클래스명') : class속성에 해당하는 요소들 리턴(배열형태) </li>
+  <li>document.getElementsByTagName('태그명') : 태그명에 해당하는 요소들 리턴(배열형태)
+  <hr>
+  <li>document.querySelector("선택자") : 선택자에 해당하는 첫번째 요소 리턴 </li>
+  <li> document.querySelectorAll("선택자") : 선택자에 해당하는 모든 요소 리턴(배열형태) </li>
+</ol>
